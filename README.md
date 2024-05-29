@@ -16,7 +16,6 @@ The repository supports our [AAAI HCOMP 2024](https://www.humancomputation.com/)
 * `stanford_label` is the given string class label of the image from the Stanford Dogs dataset.
 * `stanford_label_idx` is the given class label index of the image from the Stanford Dogs dataset.
 * `stanford_sampleid` is the integer ID of the image within the Stanford Dogs dataset.
-* `image_name` is the string file name of the Stanford Dogs image.
 * `image_filename` is the filename of the JPG file for the stimulus.
 
 `qualtrics-data.csv` - This file contains data collected from participants in our post-study [Qualtrics](https://www.qualtrics.com/) survey. Each row corresponds to an individual participant's responses to our survey questions. The columns are as follows:
