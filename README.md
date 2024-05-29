@@ -32,7 +32,7 @@ The repository supports our [AAAI HCOMP 2024](https://www.humancomputation.com/)
 * `ATTC_FOC` is the attention focusing score on the [Attention Control Scale](https://arc.psych.wisc.edu/self-report/attention-control-scale-attc/).
 * `ATTC_SHIF` is the attention shifting score on the [Attention Control Scale](https://arc.psych.wisc.edu/self-report/attention-control-scale-attc/).
 
-`analysis.ipynb` - This Jupyter notebook contains our analysis to create the plots in our paper. We conducted a comparative analysis between data from our time-limited study and prior work, [CIFAR-10H](https://github.com/jcpeterson/cifar-10h), which did not use a time limit. Download `data/cifar10h-raw.csv` from [here](https://github.com/jcpeterson/cifar-10h). The analysis addresses the following six research questions:
+`analysis.ipynb` - This Jupyter notebook contains our analysis to create the plots in our paper. We conducted a comparative analysis between data from our time-limited study and prior work, [CIFAR-10H](https://github.com/jcpeterson/cifar-10h), which did not use a time limit. For instructions on downloading the required datasets, please refer to the <b>Required Downloads</b> section below." The analysis addresses the following six research questions:
 
 * RQ1: Does time pressure affect performance?
 * RQ2: Do annotators who spend more time have greater label certainty?
@@ -40,6 +40,13 @@ The repository supports our [AAAI HCOMP 2024](https://www.humancomputation.com/)
 * RQ4: Which images are more difficult under time limits?
 * RQ5: Do declines in accuracy correlate with increased uncertainty?
 * RQ6: How does a time limit affect the satisfaction/motivation of crowd workers?
+
+## Required Downloads (for `analysis.ipynb`)
+
+### Download `data/cifar10h-raw.csv` from [here](https://github.com/jcpeterson/cifar-10h) 
+
+### Download Stanford Dogs images from [here](http://vision.stanford.edu/aditya86/ImageNetDogs/) 
+<i>Images</i> folder renamed to StanfordDogs_Dataset in notebook
 
 ## Erratum: Cat Image
 
