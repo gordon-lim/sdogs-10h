@@ -25,7 +25,7 @@ The repository supports our [AAAI HCOMP 2024](https://www.humancomputation.com/)
 * `pet_dog` is the open-ended response to "Do you currently own or have you ever owned a pet dog? If yes, please specify the breed(s)."
 * `difficulty` is the open-ended response to "Please comment on the difficulty of the task (e.g., time was too limited)."
 * `features` is the open-ended response to "Describe the features of images that you felt you needed more time on."
-* `feedback` is an open-ended response to "Any general comments/feedback?"
+* `feedback` is the open-ended response to "Any general comments/feedback?"
 * `prolific_time` is the multiple-choice response to "How much time, on average, do you spend on Prolific/MTurk each week for various tasks, including participating in studies or completing tasks? Please select the option that best represents your weekly commitment."
 * `PosAffect` is the Positive Affect score on the [Positive And Negative Affect Schedule (PANAS)](https://ogg.osu.edu/media/documents/MB%20Stream/PANAS.pdf).
 * `NegAffect` is the Negative Affect score on the [Positive And Negative Affect Schedule (PANAS)](https://ogg.osu.edu/media/documents/MB%20Stream/PANAS.pdf).
