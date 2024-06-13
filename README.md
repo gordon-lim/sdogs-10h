@@ -34,12 +34,11 @@ The repository supports our [AAAI HCOMP 2024](https://www.humancomputation.com/)
 
 `analysis.ipynb` - This Jupyter notebook contains our analysis to create the plots in our paper. We conducted a comparative analysis between data from our time-limited study and prior work, [CIFAR-10H](https://github.com/jcpeterson/cifar-10h), which did not use a time limit. For instructions on downloading the required datasets, please refer to the <b>Required Downloads</b> section below." The analysis addresses the following six research questions:
 
-* RQ1: Does time pressure affect performance?
-* RQ2: Do annotators who spend more time have greater label certainty?
-* RQ3: What is the trade-off between data quality and varying time limits?
-* RQ4: Which images are more difficult under time limits?
-* RQ5: Do declines in accuracy correlate with increased uncertainty?
-* RQ6: How does a time limit affect the satisfaction/motivation of crowd workers?
+* RQ1: How does time limit impact individual participant accuracy?
+* RQ2: What is the trade-off between overall performance accuracy and varying time limits?
+* RQ3: Which images are more difficult under a view time limit?
+* RQ4: How can consensus algorithms mitigate the impact of time limits on performance accuracy?
+* RQ5: How does a view time limit affect the effort and satisfaction of crowd workers over the duration of our task?
 
 ## Required Downloads (for `analysis.ipynb`)
 
