@@ -2,7 +2,7 @@
 
 SDOGS-10H consists of 7,500 time-limited human annotations over 250 dog images sourced from the [Stanford Dogs dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/). Thirty participants were randomly assigned to one of three cohorts, with ten participants in each cohort, and viewed the images for durations of 100ms, 1000ms, or 2500ms, respectively. Additionally, we include our participants’ responses from the post-study survey, including psychometric questionnaire scores.
 
-The repository supports our [AAAI HCOMP 2024](https://www.humancomputation.com/) paper submission **"Towards Fair Pay and Equal Work: Imposing View Time Limits in Crowdsourced Image Classification"** and includes the analyses we performed to evaluate view time limits in image classification crowdsourcing tasks as a practical approach to addressing ethical concerns around fair compensation and task completion transparency.
+The repository supports our [ACM WSDM 2025](https://www.wsdm-conference.org/2025/) paper submission **"Towards Fair Pay and Equal Work: Imposing View Time Limits in Crowdsourced Image Classification"** and includes the analyses we performed to evaluate view time limits in image classification crowdsourcing tasks as a practical approach to addressing ethical concerns around fair compensation and task completion transparency.
 
 ### Repository Contents
 
