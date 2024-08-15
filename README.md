@@ -55,3 +55,5 @@ In our study, we mistakenly included a cat image instead of a dog (test_qid 171)
 
 We would like to thank the authors of [CIFAR-10H](https://github.com/jcpeterson/cifar-10h/tree/master) and [DiD](https://github.com/computational-imaging/diffusion-in-the-dark/tree/main), which we referenced in creating this README.
 
+ChatGPT was used to assist this Work by revising portions of text (in our paper) and generating code snippets, which were subsequently reviewed and refined to ensure accuracy and quality.
+
